@@ -3,19 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.tuxpt.xyz/posts/intro/</loc>
+    <lastmod>2020-11-08T23:18:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuxpt.xyz/posts/</loc>
+    <lastmod>2020-11-08T23:18:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuxpt.xyz/tags/</loc>
+    <lastmod>2020-11-08T23:18:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuxpt.xyz/</loc>
+    <lastmod>2020-11-08T23:18:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuxpt.xyz/tags/untagged/</loc>
+    <lastmod>2020-11-08T23:18:39+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.tuxpt.xyz/blog/</loc>
   </url>
   
   <url>
     <loc>https://www.tuxpt.xyz/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tuxpt.xyz/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tuxpt.xyz/</loc>
   </url>
   
 </urlset>

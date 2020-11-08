@@ -1,6 +1,6 @@
 baseURL      = "https://www.tuxpt.xyz/"
 title        = "My Blog"
-languageCode = "en-us"
+languageCode = "pt-pt"
 theme        = "hugo-theme-hello-friend-ng"
 paginate     = 10
 publishDir   = "docs"

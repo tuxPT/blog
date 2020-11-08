@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on tuxPT blog</title>
+        <link>https://www.tuxpt.xyz/posts/</link>
+        <description>Recent content in Posts on tuxPT blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>pt-pt</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 08 Nov 2020 23:18:39 +0000</lastBuildDate>
+        <atom:link href="https://www.tuxpt.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Intro</title>
+            <link>https://www.tuxpt.xyz/posts/intro/</link>
+            <pubDate>Sun, 08 Nov 2020 23:18:39 +0000</pubDate>
+            
+            <guid>https://www.tuxpt.xyz/posts/intro/</guid>
+            <description>Hello!!
+My name is Leonardo Costa (aka tuxpt) and I am finishing my &amp;ldquo;MIECT&amp;rdquo;(Computer and Telematics Enginnering Integrated Master) course at &amp;ldquo;Universidade de Aveiro&amp;rdquo;. I have always been enthusiastic about how a computer system works and because of that My main hobby is learning more about the past, present and future of those computer systems.
+My main skills are(many are missing, but I&amp;rsquo;m a fan of KISS principle, if you don&amp;rsquo;t know what it stands for maybe you are lost):</description>
+            <content type="html"><![CDATA[<p>Hello!!</p>
+<p>My name is Leonardo Costa (aka tuxpt) and I am finishing my &ldquo;MIECT&rdquo;(Computer and Telematics Enginnering Integrated Master) course at &ldquo;Universidade de Aveiro&rdquo;.
+I have always been enthusiastic about how a computer system works and because of that My main hobby is learning more about the past, present and future of those computer systems.</p>
+<p>My main skills are(many are missing, but I&rsquo;m a fan of KISS principle, if you don&rsquo;t know what it stands for maybe you are lost):</p>
+<ul>
+<li>GNU/LINUX( Ubuntu&amp;Debian, Centos, OpenSuse, ArchLinux) operation and administration )</li>
+<li>Deployment( Jenkins, Application servers(mainly java ones), Docker Swarm, flatpak, snap, Docker )</li>
+<li>Frontend( QT5, HTML5, Nativescript )</li>
+<li>Backend( C, Java, Python )</li>
+<li>Drinking Beer( a very important one indeed )</li>
+<li>Playing card and board games( not the skill you want ? too bad :(  )</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
